@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../Footer/Footer';
 import Bio from './AboutComponents/Bio';
 import Qualification from './AboutComponents/Qualification';
 import Skills from './AboutComponents/Skills';
@@ -10,6 +11,7 @@ const About = () => {
             <Bio></Bio>
             <Skills></Skills>
             <Qualification></Qualification>
+            <Footer></Footer>
         </div>
     );
 };
