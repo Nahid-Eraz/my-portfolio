@@ -11,7 +11,7 @@ const Contact = () => {
                 <div className='col-md-3 me-5'>
                     <h2>Wanna Work Together</h2>
                     <h6 className="mt-4">Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.</h6>
-                    <div className='d-flex justify-content-evenly  mt-3'>
+                    <div className='container d-flex justify-content-evenly'>
                         <div className='col-md-2 p-2'>
                             <FontAwesomeIcon icon={faEnvelopeOpen} size='3x' />
                         </div>
@@ -20,7 +20,7 @@ const Contact = () => {
                             <h6>nahidulislameraz@gmail.com</h6>
                         </div>
                     </div>
-                    <div className='d-flex justify-content-evenly  mt-3'>
+                    <div className='container d-flex justify-content-evenly'>
                         <div className='col-md-2 p-2'>
                             <FontAwesomeIcon icon={faPhoneAlt} size='3x' />
                         </div>
