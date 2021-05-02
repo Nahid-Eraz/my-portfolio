@@ -1,6 +1,6 @@
 import React from 'react';
 import './PortfolioDetail.css'
-import { Button, Card } from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faLink} from '@fortawesome/free-solid-svg-icons'
 
