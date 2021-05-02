@@ -6,14 +6,14 @@ const Bio = () => {
             <div className='mt-4'>
                 <h2 style={{ color: 'white' }}>PERSONAL INFORMATION</h2>
                 <div className='row d-flex justify-content-between mt-4'>
-                    <div className='col-md-5'>
+                    <div className='col-md-6'>
                         <p>First Name: MD Nahidul Islam</p>
                         <p>Last Name: Eraz</p>
                         <p>Nationality: Bangladeshi</p>
                         <p>Language: Bangle(Native), English, Hindi</p>
                         <p>Job: Ready to Hire</p>
                     </div>
-                    <div className='col-md-5'>
+                    <div className='col-md-6'>
                         <p>Address: H#22, Block-B, Jatrabari, Dhaka - 1362</p>
                         <p>Email: nahidulislameraz@gmail.com</p>
                         <p>Mobile: +880 152 143 1791</p>
