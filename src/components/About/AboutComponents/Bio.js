@@ -3,8 +3,8 @@ import React from 'react';
 const Bio = () => {
     return (
         <div className='container'>
-            <div className='my-4'>
-                <h2>Personal Information</h2>
+            <div className='mt-4'>
+                <h2 style={{ color: 'white' }}>PERSONAL INFORMATION</h2>
                 <div className='row d-flex justify-content-between mt-4'>
                     <div className='col-md-5'>
                         <p>First Name: MD Nahidul Islam</p>
