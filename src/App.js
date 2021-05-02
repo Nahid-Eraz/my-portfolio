@@ -14,8 +14,9 @@ import Contact from './components/Contact/Contact';
 
 function App() {
   return (
-    <Router>
-      <Header></Header>
+    <div className="body">
+      <Router>
+        <Header></Header>
         <Switch>
           <Route exact path="/">
             <Home></Home>
@@ -36,7 +37,8 @@ function App() {
             <Contact></Contact>
           </Route>
         </Switch>
-    </Router>
+      </Router>
+    </div>
   );
 }
 
