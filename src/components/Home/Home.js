@@ -21,7 +21,7 @@ const Home = () => {
                         <div className='d-flex justify-content-evenly'>
                             <div class="buttons">
                                 <div class="container">
-                                    <a href="#" class="btn effect01"><span>Download Resume <FontAwesomeIcon icon={faDownload} /></span></a>
+                                    <a href="https://drive.google.com/uc?export=download&id=13he56TWY3mfQ5H_WKzfr7GJeNaQAbtm5" class="btn effect01"><span>Download Resume <FontAwesomeIcon icon={faDownload} /></span></a>
                                 </div>
                             </div>
                             <div class="buttons">
