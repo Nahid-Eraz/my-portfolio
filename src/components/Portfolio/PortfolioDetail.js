@@ -13,9 +13,9 @@ const PortfolioDetail = (props) => {
                 <Card.Body>
                     <Card.Title>{name}</Card.Title>
                     <Card.Text>{tech}</Card.Text>
-                    <div class="buttons">
-                        <div class="container">
-                            <a href={live} class="btn effect01"><span>Live Link <FontAwesomeIcon icon={faLink} /></span></a>
+                    <div className="buttons">
+                        <div className="container">
+                            <a href={live} className="btn effect01"><span>Live Link <FontAwesomeIcon icon={faLink} /></span></a>
                         </div>
                     </div>
                 </Card.Body>

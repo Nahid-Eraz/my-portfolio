@@ -19,14 +19,14 @@ const Home = () => {
                         <p><b>Focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.</b></p>
 
                         <div className='d-flex justify-content-evenly'>
-                            <div class="buttons">
-                                <div class="container">
+                            <div className="buttons">
+                                <div className="container">
                                     <a href="https://drive.google.com/uc?export=download&id=13he56TWY3mfQ5H_WKzfr7GJeNaQAbtm5" class="btn effect01"><span>Download Resume <FontAwesomeIcon icon={faDownload} /></span></a>
                                 </div>
                             </div>
-                            <div class="buttons">
-                                <div class="container">
-                                    <a href="/about" class="btn effect01"><span>More About Me <FontAwesomeIcon icon={faArrowRight} /></span></a>
+                            <div className="buttons">
+                                <div className="container">
+                                    <a href="/about" className="btn effect01"><span>More About Me <FontAwesomeIcon icon={faArrowRight} /></span></a>
                                 </div>
                             </div>
                         </div>
