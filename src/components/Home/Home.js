@@ -16,7 +16,7 @@ const Home = () => {
                     <div className="col-md-5">
                         <h1 style={{ color: 'white' }} className="heading-text">- I'm <span className='text-dark'>Nahid Eraz</span></h1>
                         <h1 style={{ color: 'white' }}>Front-End Web Developer</h1>
-                        <p> Focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.</p>
+                        <p><b>Focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.</b></p>
 
                         <div className='d-flex justify-content-evenly'>
                             <div class="buttons">
